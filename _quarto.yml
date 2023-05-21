@@ -17,3 +17,5 @@ format:
     theme: lux
     css: styles.css
     toc: true
+    grid:
+      margin-width: 0px

@@ -1,1 +1,21 @@
 /* css styles */
+
+/* Import bold Arvo font for title */
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
+
+/* Use a thin (200 weight) version of Poppins for the main text*/ 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body {
+    font-family: Poppins;
+    background: #FFFFF0
+}
+
+/* Change style of BOTH h1 and h2 */
+h1, h2 {
+    font-family: Arvo
+}
+
+h1.title {
+    font-size: 35pt;
+}
