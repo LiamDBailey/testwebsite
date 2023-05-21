@@ -2,14 +2,9 @@ project:
   type: website
 
 website:
-  ## Remove search functionality.
-  ## I find this unnecessary.
   search: false
-  ## Update your website title to be informative.
-  ## This also changes the text at the top of the navbar
   title: "Joe Blogs"
   navbar:
-    ## Add in a GitHub and Twitter link in the navbar
     left:
       - icon: github
         href: https://github.com
@@ -18,6 +13,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    ## Use the 'lux' theme instead of 'cosmo'
+    theme: lux
     css: styles.css
     toc: true
