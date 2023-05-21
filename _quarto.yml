@@ -2,18 +2,22 @@ project:
   type: website
 
 website:
-  title: "testweb"
+  ## Remove search functionality.
+  ## I find this unnecessary.
+  search: false
+  ## Update your website title to be informative.
+  ## This also changes the text at the top of the navbar
+  title: "Joe Blogs"
   navbar:
+    ## Add in a GitHub and Twitter link in the navbar
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - icon: github
+        href: https://github.com
+      - icon: twitter
+        href: https://twitter.com
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-

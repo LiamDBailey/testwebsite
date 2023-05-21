@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "testweb",
+    "title": "Joe Blogs",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi I’m Joe Blogs and I like to work with R and Python!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Joe Blogs",
+    "section": "Education",
+    "text": "Education\nSchool of Hard Knocks | London, UK | Sept 2012 - June 2018"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Joe Blogs",
+    "section": "Experience",
+    "text": "Experience\nBusiness Co. | Junior Data Scientist | January 2019 - present"
   }
 ]

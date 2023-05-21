@@ -1,7 +1,16 @@
 ---
-title: "testweb"
+title: "Joe Blogs"
+about:
+    template: jolla
+    image: profile.jpg
 ---
 
-This is a Quarto website.
+Hi I'm Joe Blogs and I like to work with R and Python!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+School of Hard Knocks | London, UK | Sept 2012 - June 2018
+
+## Experience
+
+Business Co. | Junior Data Scientist | January 2019 - present
