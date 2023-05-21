@@ -7,13 +7,6 @@
     "text": "Hi I’m Joe Blogs and I like to work with R and Python!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Joe Blogs",
@@ -26,5 +19,12 @@
     "title": "Joe Blogs",
     "section": "Experience",
     "text": "Experience\nBusiness Co. | Junior Data Scientist | January 2019 - present"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
